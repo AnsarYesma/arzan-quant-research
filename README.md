@@ -76,6 +76,12 @@ Production estimation is gated when eligible history or historical mappings are
 missing. Successful synthetic execution is not evidence of production forecast accuracy.
 The full completion checklist and remaining audit are in `docs/BUILD_PLAN.md`.
 
+## License
+
+The repository's software and included documentation are available under the
+[MIT License](LICENSE). This license does not apply to the excluded Arzan.kz
+production data or product mappings; see [the publication boundary](PUBLICATION.md).
+
 See `docs/OPERATIONS.md` for reproducible commands and input contracts, and
 `docs/RESEARCH_METHODS.md` for model definitions and limitations.
 

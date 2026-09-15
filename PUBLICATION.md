@@ -8,6 +8,9 @@ prediction rows, research databases, credentials, and private run artifacts must
 be redistributed. Public examples in this repository use deterministic synthetic
 data only.
 
+The MIT License applies to the repository's software and included documentation. It
+does not grant rights to the excluded Arzan.kz production data or product mappings.
+
 ## Data availability statement
 
 The production data supporting this study were provided by Arzan.kz and are subject
