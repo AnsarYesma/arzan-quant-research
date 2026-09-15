@@ -1,0 +1,14 @@
+{
+  "start": "2025-01-01",
+  "end": "2025-08-29",
+  "assume_store_success_confirms_state": true,
+  "max_state_age_days": 365,
+  "min_train_days": 60,
+  "test_days": 30,
+  "min_train_events": 30,
+  "grocery_categories": [
+    "category_0",
+    "category_1",
+    "category_2"
+  ]
+}

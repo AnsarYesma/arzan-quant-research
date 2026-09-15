@@ -1,0 +1,9 @@
+{
+  "kind": "independent synthetic monthly validation",
+  "seed": 20260913,
+  "months": 48,
+  "index_coefficient": 0.4,
+  "diffusion_coefficient": 0.8,
+  "first_release_delay_days": 10,
+  "revision_delay_days": 45
+}

@@ -1,0 +1,9 @@
+{
+  "seed": 20260913,
+  "days": 240,
+  "independent": false,
+  "effect": "alpha -> beta, next day, same city and product",
+  "baseline_change_probability": 0.045,
+  "follower_probability_given_source_change": 0.72,
+  "note": "Probabilities refer to latent non-promotion changes, not censored retained rows."
+}

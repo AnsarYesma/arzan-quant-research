@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "schema_version": "1.0",
+  "export_id": "synthetic-20260913-240-False",
+  "status": "synthetic",
+  "cutoff_exclusive": "2025-08-29T00:00:00+00:00",
+  "mapping_snapshot_at": "2025-08-29T00:00:00+00:00",
+  "totals": {
+    "price_observations": 1251,
+    "daily_crawl_coverage_rows": 1440
+  },
+  "files": [
+    {
+      "path": "price_observations/events.parquet",
+      "row_count": 1251,
+      "bytes": 26376,
+      "sha256": "466b5c43020480c60311b70ff4b0b320445c47e912b55e05dd47d146e89dcda5"
+    },
+    {
+      "path": "crawl_coverage/daily_crawl_coverage.parquet",
+      "row_count": 1440,
+      "bytes": 2550,
+      "sha256": "b89a3c4db778ec0781a76f1ee964017bb0389af67a968015f9751f50f84992ce"
+    }
+  ]
+}

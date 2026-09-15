@@ -1,0 +1,13 @@
+{
+  "start": "2025-10-12",
+  "end": "2026-09-01",
+  "max_state_age_days": 7,
+  "assume_store_success_confirms_state": false,
+  "retrospective_mapping": true,
+  "min_train_days": 60,
+  "test_days": 30,
+  "min_train_events": 30,
+  "feed_groups": {},
+  "grocery_categories": [],
+  "assume_continuous_observation": true
+}
